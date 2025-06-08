@@ -1,3 +1,6 @@
+> **⚠️ Deprecated:**  
+> This repository is no longer maintained. Please use the [Zentient.Endpoints](https://github.com/ulfbou/Zentient.Endpoints) repository for future development and updates.
+
 # Zentient.Results.AspNetCore
 
 [![NuGet Version](https://img.shields.io/nuget/v/Zentient.Results.AspNetCore.svg?style=flat-square)](https://www.nuget.org/packages/Zentient.Results.AspNetCore/)
